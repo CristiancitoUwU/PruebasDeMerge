@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Master: Qmas parcero
 feature2: Ah papi bien, y usted?
 feature2: Me unire con master
 feature2: Me he unido a master
+=======
+1 Master: Qmas parcero
+2 feature2: Ah papi bien, y usted?
+3 feature3: Eh que mas, bien?
+4 feature3: Me unire a master luego
+feature3: Me he unido con master y f2
+>>>>>>> feature3
