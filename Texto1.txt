@@ -1,3 +1,4 @@
 Master: Qmas parcero
 feature2: Ah papi bien, y usted?
-featuere2: Me unire con master
+feature2: Me unire con master
+feature2: Me he unido a master
